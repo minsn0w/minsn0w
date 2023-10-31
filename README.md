@@ -8,19 +8,19 @@ I am a university student at RMIT SGS Campus passionate about learning new thing
 
 I am currently the President of RMIT E-sports CLub for this semester. I am passionate about Marketing and Business in general as well, and I enjoy E-sports activities during my leisure time! I am constantly learning and exploring new things within this domain.
 
-## Skills and Expertise
+## Skills and Expertise 🤖
 
 - **Programming Languages:** HTML, CSS, JavaScript, Python
 - **Interests:** Digital Marketing, SEO, Facebook Ads, Google Ads
 
-## Get in Touch
+## Get in Touch 💬
 
 I'm always open to collaborating and discussing new ideas. Feel free to reach out to me on:
 
 - **Email:** minsnow116@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/erana-nguyễn-889a08220/
 
-## Let's Connect
+## Let's Connect 
 
 If you share similar interests or have exciting projects in mind, let's connect and explore the possibilities together! I'm looking forward to learning from and collaborating with the GitHub community.
 
